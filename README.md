@@ -11,7 +11,7 @@
 ```
 composer require gaomingcode/autosize
 ```
----
+###
 
 Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 
