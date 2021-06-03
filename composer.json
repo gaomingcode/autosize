@@ -1,4 +1,21 @@
 {
-  "name":"gaomingcode/autosize",
-  "type": "library"
+    "name": "gaomingcode/autosize",
+    "description": "Autosize is a small, stand-alone script to automatically adjust textarea height to fit text. ",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "autosize", "textarea", "form", "ui"
+    ],
+    "homepage": "https://www.jacklmoore.com/autosize/",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Jack Moore",
+            "url": "http://www.jacklmoore.com",
+            "email": "hello@jacklmoore.com"
+        }
+    ]
 }
