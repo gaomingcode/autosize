@@ -1,4 +1,16 @@
-## Summary
+# Autosize 
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/autosize.svg)](https://github.com/gaomingcode/autosize)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/autosize)](https://github.com/gaomingcode/autosize)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/autosize)](https://github.com/gaomingcode/autosize)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/autosize
+```
 
 Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 
